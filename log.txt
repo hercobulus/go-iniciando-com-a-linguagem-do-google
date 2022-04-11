@@ -1,0 +1,17 @@
+11/04/2022 16:28:39 http://www.alura.com.br - Online: true
+11/04/2022 16:28:39 https://random-status-code.herokuapp.com/ - Online: false
+11/04/2022 16:28:40 https://caelum.com.br - Online: true
+11/04/2022 16:28:41 http://www.google.com - Online: true
+11/04/2022 16:28:41 http://facebook.com - Online: true
+11/04/2022 16:28:47 http://www.alura.com.br - Online: true
+11/04/2022 16:28:47 https://random-status-code.herokuapp.com/ - Online: false
+11/04/2022 16:28:47 https://caelum.com.br - Online: true
+11/04/2022 16:28:48 http://www.google.com - Online: true
+11/04/2022 16:28:48 http://facebook.com - Online: true
+11/04/2022 16:28:54 http://www.alura.com.br - Online: true
+11/04/2022 16:28:54 https://random-status-code.herokuapp.com/ - Online: false
+11/04/2022 16:28:54 https://caelum.com.br - Online: true
+11/04/2022 16:28:55 http://www.google.com - Online: true
+11/04/2022 16:28:55 http://facebook.com - Online: true
+11/04/2022 16:29:04 http://www.alura.com.br - Online: true
+11/04/2022 16:29:05 https://random-status-code.herokuapp.com/ - Online: false

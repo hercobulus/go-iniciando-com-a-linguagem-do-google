@@ -1,0 +1,5 @@
+http://www.alura.com.br
+https://random-status-code.herokuapp.com/
+https://caelum.com.br
+http://www.google.com
+http://facebook.com
